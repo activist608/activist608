@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on XSS/SQL<br>🌱 I’m currently learning<br>💬 Contact me on Vercel<br>
+🔭 I’m currently working on CTF<br>🌱 I’m currently learning<br>💬 Contact me on telegram : t.me/activist608 <br>
 
 
 # 💻 Tech Stack:
