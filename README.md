@@ -1,8 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on JavaScript<br>🌱 I’m currently learning<br>💬 Contact me on telegram : t.me/activist608 <br>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4czl4NXVsaHU1cDV0eGoxMDZyZ3AxMWtpN3JsaGNxZ21zMDlmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PERfyIVjsu25i/giphy.gif" width="900">
+</p>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/naskasscrypto) 
+<h1 align="center">
+  608 — Offensive Security
+</h1>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  Penetration Testing • Security Research • Development
+</p>
