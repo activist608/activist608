@@ -9,6 +9,6 @@
 
 <p align="center">
   <a href="https://watchbutdonotlearn.github.io">
-    <sub>don't click here →</sub>
+    <sub>don't click here</sub>
   </a>
 </p>
